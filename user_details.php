@@ -42,10 +42,10 @@
       		<td><?php printf ("%s", $row["dob"]); ?> </td>
       	</tr>
 
-      	<tr>
+      	<!-- <tr>
       		<td>Marital Status :</td>
-      		<td><?php printf ("%s", $row["marital_status"]); ?> </td>
-      	</tr>
+      		<td><//?php printf ("%s", $row["marital_status"]); ?> </td>
+      	</tr> -->
 
 
       <!-- 	<tr>
