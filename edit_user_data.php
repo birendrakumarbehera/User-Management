@@ -108,7 +108,7 @@ $query = "UPDATE  `user` SET name = '$name',password = '$password',gender = '$ge
       </div>
 
 <!-- This division contains input for Marital status -->
-      <div class="form-group">
+      <!-- <div class="form-group">
         <label for="MaritalStatus">Marital Status</label>
         <select name="maritalStatus" id="maritalStatus" class="form-control">
         <option value="unmarried">Unmaried</option>
@@ -116,7 +116,7 @@ $query = "UPDATE  `user` SET name = '$name',password = '$password',gender = '$ge
         <option value="divorced">Divorced</option>
         </select>
       </div>
-    </div>
+    </div> -->
 
 <!-- This division contains input for profile photo -->
     <div class="form-group" >
