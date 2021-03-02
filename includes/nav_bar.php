@@ -4,6 +4,8 @@
   
   <a href="user_registration.php" title="Add User"><i class="fa fa-plus"><span style="font-size:18px"> Add</span></i></a> 
   
+  <a href="dashboard.php" title="Search"><i class="fa fa-search"><span style="font-size:18px"> Search</span></i></a> 
+  
   <a href="logout.php" title="Logout" ><i class="fa fa-sign-out"><span style="font-size:18px"> Logout</span> </i></a>
   
 </div>
